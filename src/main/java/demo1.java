@@ -6,5 +6,6 @@ public class demo1 {
         System.out.println("this is hot-fix first modify");
         System.out.println("this is master first modify");
         System.out.println("this is hot-fix second modify");
+        System.out.println("push test");
     }
 }
