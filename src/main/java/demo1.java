@@ -3,5 +3,6 @@ public class demo1 {
         System.out.println("Hello World!!!!!!");
         System.out.println("this is second modify");
         System.out.println("this is third modify");
+        System.out.println("this is hot-fix first modify");
     }
 }
