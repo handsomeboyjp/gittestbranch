@@ -7,5 +7,6 @@ public class demo1 {
         System.out.println("this is master first modify");
         System.out.println("this is hot-fix second modify");
         System.out.println("push test");
+        System.out.println("this is a remote test");
     }
 }
